@@ -11,10 +11,10 @@ title                    : "Gary Qiurui Ma"
 title_separator          : "-"
 name                     : &name "Gary Qiurui Ma"
 description              : &description "Final Year Computer Science and General Business Management Student in Hong Kong University of Science and Technology"
-url                      : https://qmaai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qmaai/qmaai.github.io"
-teaser                   : #"profile.png"
+teaser                   : "profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
