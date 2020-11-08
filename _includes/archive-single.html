@@ -34,7 +34,7 @@
         <em>{{post.venue}}</em>
     <br>
     {% for link in post.links %}
-      <a href="link.link" target="_blank">[{{link.name}}]</a> 
+    <a href="{{ link.link }}" target="_blank">[{{link.name}}]</a> 
     {% endfor %}
     <br>
     <div style="padding-top:4px">
