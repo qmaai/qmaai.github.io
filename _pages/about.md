@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!--
 <style type="text/css">
   body{
     font-size: 12pt;
     }
 </style>
+-->
 <hr style="border:1.5px solid gray">
 I am a final year Computer Science and Business Student at Hong Kong University of Science and Technology, where I am very fortunate to be advised by [Prof. Tong Zhang](http://tongzhang-ml.org/).
 
