@@ -1,5 +1,5 @@
 ---
-title: 'TCA-TWAS: Identification of cell-type-specific genetic regulation of gene expression for transcriptome-wide association studies' 
+title: 'TCA-TWAS: Identification of Cell-Type-Specific Genetic Regulation of Gene Expression for Transcriptome-Wide Association Studies' 
 collection: projects
 permalink: /talks/2019-07-tca-twas.md
 excerpt: 'In this study, we deconvolute builk-level gene expressions into cell-type-specific gene expressions with cell-type weights using bayesian models, circumventing the centrifusion that traditional methods require to acqure cell-type specific gene expressions. We then associate specific gene expressions with phenotypes on UKBiobank blood tissue data.'
@@ -8,7 +8,7 @@ date: 2019-09-01
 imgurl: 'tca-twas.png' 
 authors:
   - name: Qiurui Ma
-    link: https://qmaai.github.io/
+    link: 
     star: true
   - name: Duo Zhang
     link: 

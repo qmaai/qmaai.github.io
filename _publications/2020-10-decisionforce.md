@@ -17,7 +17,7 @@ authors:
   - name: Jiankai Xun
     link: https://scholar.google.com.hk/citations?user=726MCb8AAAAJ&hl=en
   - name: Qiurui Ma
-    link: https://qmaai.github.io/
+    link: 
   - name: Chunxiao Liu
     link:
   - name: Bolei Zhou

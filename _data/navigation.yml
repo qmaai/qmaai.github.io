@@ -3,9 +3,11 @@ main:
     #- title: "Academics"
     #url: /publications/
 
-  - title: "From Business to CS to Research"
-    url: /teaching/    
+  - title: "My story--from Business to CS to Research"
+    url: /business-to-cs/    
 
+  - title: "CV"
+    url: /files/Gary_Qiurui_Ma_HKUST_CS_11_2020.pdf
     #- title: "Teaching"
     #url: /teaching/    
     
