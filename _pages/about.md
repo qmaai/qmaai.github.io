@@ -15,13 +15,13 @@ redirect_from:
 <hr style="border:1.5px solid gray">
 I am a final year Computer Science and Business Student at Hong Kong University of Science and Technology, where I am very fortunate to be advised by [Prof. Tong Zhang](http://tongzhang-ml.org/).
 
-In 2019, I spent one most fantastic year in the [Strategic Reasoning Group](https://strategicreasoning.org/), University of Michigan Ann Arbor, where I was so thankful to be supervised by [Prof. Michael Wellman](http://strategicreasoning.org/michael-p-wellman/). My sincere gratitudes also go to [Prof. Tilman Borgers](http://www-personal.umich.edu/~tborgers/), whose most enlighting lectures sparked my interests in Game Theory. 
+In 2019, I spent a fantastic year at the [Strategic Reasoning Group](https://strategicreasoning.org/), University of Michigan Ann Arbor, where I was so thankful to be supervised by [Prof. Michael Wellman](http://strategicreasoning.org/michael-p-wellman/). My sincere gratitude also goes to [Prof. Tilman Borgers](http://www-personal.umich.edu/~tborgers/), whose most enlighting lectures sparked my interest in Game Theory. 
 
 [comment]: #I also had a summer supervised by [Prof. Sankararaman](http://web.cs.ucla.edu/~sriram/) in UCLA and a semester in [Sensetime HK](https://www.sensetime.com/en) where [Sirui Xie](https://siruixie.com/) guided me onto the path of research.
 
 # Research
 <hr style="border:1.5px solid gray">
-After exploration in Reinforcement Learing (RL) and Stochastic Control, I have found myself deeply attracted to the intersection between Game Theory and CS. I was drawn to the field initially because of its power in combining the potential of RL and a solid framework of Equilibrium concepts into a multiagent system. Gradually I am also become interested in the theories on convergence to equilibrium concepts. My current work attempts to answer the following two questions:
+After exploration of Reinforcement Learing (RL) and Stochastic Control, I have found myself deeply attracted to the intersection of Game Theory and Computer Science. I was drawn to the field initially because of its power in combining the potential of RL with a solid framework of Equilibrium concepts into a multiagent system. Now I am also interested in the theories of convergence to equilibrium concepts. My current work attempts to answer the following two questions:
 1. Why and when do certain no-external-regret algorithms converge to Correlated Equilibriums in some games empirically?
 2. Is Nash Equilibrium identifiable through sampling in unknown games without a minimax oracle?
 
