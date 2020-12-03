@@ -21,9 +21,9 @@ In 2019, I spent a fantastic year at the [Strategic Reasoning Group](https://str
 
 # Research
 <hr style="border:1.5px solid gray">
-After exploration of Reinforcement Learing (RL) and Stochastic Control, I have found myself deeply attracted to the intersection of Game Theory and Computer Science. I was drawn to the field initially because of its power in combining the potential of RL with a solid framework of Equilibrium concepts into a multiagent system. Now I am also interested in the theories of convergence to equilibrium concepts. My current work attempts to answer the following two questions:
-1. Why and when do certain no-external-regret algorithms converge to Correlated Equilibriums in some games empirically?
-2. Is Nash Equilibrium identifiable through sampling in unknown games without a minimax oracle?
+After exploration of Reinforcement Learing (RL) and Stochastic Control, I have found myself deeply attracted to the intersection of Game Theory and Computer Science. I was drawn to the field initially because of its power in combining the potential of RL with a solid framework of Equilibrium concepts into a multiagent system. Now I am interested in the theories of convergence to equilibrium concepts. My current work attempts to answer the following two questions:
+1. Why and when do certain no-external-regret algorithms converge to Correlated Equilibriums or even Nash Equilibrium in some games, instead of a more general Coarse Correlated Equilibrium?
+2. Is Nash Equilibrium identifiable through sampling in unknown stochastic games without a minimax oracle?
 
 
 # Publications 

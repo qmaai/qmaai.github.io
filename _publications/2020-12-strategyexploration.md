@@ -17,7 +17,4 @@ authors:
     star: true
   - name: Michael Wellman
     link: https://strategicreasoning.org/michael-p-wellman/
-links:
-  - name: paper under review
-    link:
 ---
