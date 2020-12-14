@@ -26,7 +26,7 @@ After exploration of Reinforcement Learing (RL) and Stochastic Control, I have f
 2. Is Nash Equilibrium identifiable through sampling in unknown stochastic games without a minimax oracle?
 
 
-# Publications 
+# Papers
 <hr style="border:1.5px solid gray">
 <h6>* indicates equal contribution. </h6>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
