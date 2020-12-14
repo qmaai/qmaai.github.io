@@ -7,7 +7,7 @@ excerpt: 'In Empirical Game Theoretic Analysis (EGTA), game models are iterative
 date: 2020-12-01
 venue: 'Recent Paper'
 imgurl: 'strategy-exploration.png' 
-paperurl: /files/evaluating_strategy_exploration_in_empirical_game_theoretic_analysis.pdf
+paperurl:
 authors:
   - name: Yongzhao Wang
     link: https://strategicreasoning.org/yongzhao-wang/
@@ -17,4 +17,8 @@ authors:
     star: true
   - name: Michael Wellman
     link: https://strategicreasoning.org/michael-p-wellman/
+links:
+  - name: paper
+    link: /files/evaluating_strategy_exploration_in_empirical_game_theoretic_analysis.pdf
+
 ---
